@@ -10,6 +10,8 @@
 
 Change language from README to [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/FelCer/orders-feed-example-node/blob/main/docs/README.md)
 
+## Order Broadcast
+
 A boilerplate app implementing an event handler receiving status updates from OMS Feed.
 This is the method for using [Feed v3 Hook](https://developers.vtex.com/reference/feed-v3) inside VTEX IO.
 <br>
