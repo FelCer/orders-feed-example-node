@@ -88,7 +88,7 @@ Si desea comprender mejor cómo funciona Feed v3, consulte [esta documentación]
 
 ## Colaboradores ✨
 
-Gracias a estas maravillosas personas: ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Gracias a esta maravillosas persona: ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <table>
   <tr>
